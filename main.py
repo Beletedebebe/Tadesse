@@ -19,7 +19,7 @@ import edge_tts
 
 # ==================== CONFIGURATION ====================
 class Config:
-    BOT_TOKEN: str = os.getenv("TELEGRAM_BOT_TOKEN", "8023350187:AAEtNw3HZwj1Gjti4oCveyeoq9GeDLAjars")
+    BOT_TOKEN: str = os.getenv("TELEGRAM_BOT_TOKEN", "8833097044:AAEDc-nEP9a4yg9SgGsQHjdhfL7ShTbKja4")
     MAX_TEXT_LENGTH: int = 4000
     TEMP_DIR: str = "temp_audio"
     MAX_WORKERS: int = 4
